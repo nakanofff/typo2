@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+}
+.moji1{
+	width: 200px;
+}
+
+.moji2{
+	width: 200px;
+}
+.moji3{
+	width: 200px;
+	
+}
+.moji4{
+	width: 200px;
+}
+
+#r1{
+	fill: #181818;
+}
+#r2{
+	fill: #181818;
+}
+#r3{
+	fill: #181818;
+}
+#r4{
+	fill: #181818;
+}
